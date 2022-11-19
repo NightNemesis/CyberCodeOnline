@@ -13,7 +13,7 @@
  	 	 	"eng": "Quest"
  	 	},
  	 	"chat": {
- 	 	 	"trans": "Plaudern",
+ 	 	 	"trans": "Chat",
  	 	 	"eng": "Chat"
  	 	},
  	 	"profile": {
@@ -38,12 +38,12 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"amount"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "${amount} Bitcoin werden auf das Gang-Konto eingezahlt, dies kann nicht rückgängig gemacht werden!",
+ 	 	 	 	 	"trans": "${amount} Bitcoins werden auf das Gang-Konto eingezahlt, dies kann nicht rückgängig gemacht werden!",
  	 	 	 	 	"eng": "${amount} bitcoin will be deposit into your gang account, this cannot be reversed"
  	 	 	 	}
  	 	 	},
  	 	 	"deposit": {
- 	 	 	 	"trans": "Bitcoin einzahlen",
+ 	 	 	 	"trans": "Bitcoins einzahlen",
  	 	 	 	"eng": "Deposit Bitcoin"
  	 	 	},
  	 	 	"editMotto": {
@@ -120,7 +120,7 @@
  	 	 	 	"eng": "Community Content"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Dieser Inhalt wird von der Community beigetragen. Klicke hier um eigenen Inhalt beizutragen.",
+ 	 	 	 	"trans": "Dieser Inhalt wird von der Community beigetragen. Klicke hier um eigene Inhalte beizutragen.",
  	 	 	 	"eng": "This content is contributed by the community. click here to contribute your own content."
  	 	 	}
  	 	},
@@ -188,7 +188,7 @@
  	 	 	 	"eng": "Deposit"
  	 	 	},
  	 	 	"depositDesc": {
- 	 	 	 	"trans": "Bringe Bitcoins zur Bank",
+ 	 	 	 	"trans": "Zahle Bitcoins ein",
  	 	 	 	"eng": "Put Bitcoins into bank"
  	 	 	},
  	 	 	"withdraw": {
@@ -196,7 +196,7 @@
  	 	 	 	"eng": "Withdraw"
  	 	 	},
  	 	 	"withdrawDesc": {
- 	 	 	 	"trans": "Hole Bitcoins aus der Bank",
+ 	 	 	 	"trans": "Zahle Bitcoins aus",
  	 	 	 	"eng": "Take Bitcoins out of bank"
  	 	 	},
  	 	 	"putItemToVault": {
@@ -280,7 +280,7 @@
  	 	 	 	"eng": "You found an old locked safe box, there seems like a post-it with some text written on it."
  	 	 	},
  	 	 	"title": {
- 	 	 	 	"trans": "PIN-Code zum Entsperren erforderlich",
+ 	 	 	 	"trans": "PIN-Code erforderlich",
  	 	 	 	"eng": "Pin code required to unlock"
  	 	 	},
  	 	 	"inputLabel": {
@@ -358,7 +358,7 @@
  	 	 	 	 	"eng": "Chat exploit is in effect, all message sent will be altered. use ${vpnName} to secure your connection!"
  	 	 	 	},
  	 	 	 	"activateVPN": {
- 	 	 	 	 	"trans": "Aktivieren Sie VPN",
+ 	 	 	 	 	"trans": "VPN aktivieren",
  	 	 	 	 	"eng": "Activate VPN"
  	 	 	 	}
  	 	 	},
@@ -501,7 +501,7 @@
  	 	 	 	"eng": "Leaderboard"
  	 	 	},
  	 	 	"tutorial": {
- 	 	 	 	"trans": "Spielanleitung",
+ 	 	 	 	"trans": "Tutorial",
  	 	 	 	"eng": "Tutorial"
  	 	 	},
  	 	 	"settings": {
@@ -610,31 +610,31 @@
  	 	"communityItemLore": {
  	 	 	"noLoreButton": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Überlieferungen erstellen",
+ 	 	 	 	 	"trans": "Geschichte erstellen",
  	 	 	 	 	"eng": "Create Lore"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Es gibt noch keine Community-Überlieferung für diesen Gegenstand. Sei der Erste, der eine erstellt.",
+ 	 	 	 	 	"trans": "Es gibt noch keine Community-Geschichte für diesen Gegenstand. Sei der Erste, der eine erstellt.",
  	 	 	 	 	"eng": "There is no community lore for this item yet, be the first to create one for it."
  	 	 	 	}
  	 	 	},
  	 	 	"openButton": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Community-Überlieferung",
+ 	 	 	 	 	"trans": "Community-Geschichte",
  	 	 	 	 	"eng": "Community Lore"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Öffne die Community-Überlieferung für diesen Gegenstand",
+ 	 	 	 	 	"trans": "Öffne die Community-Geschichte für diesen Gegenstand",
  	 	 	 	 	"eng": "Open the community lore for this item"
  	 	 	 	}
  	 	 	},
  	 	 	"editButton": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Bearbeite diese Überlieferung",
+ 	 	 	 	 	"trans": "Bearbeite diese Geschichte",
  	 	 	 	 	"eng": "edit this lore"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Bearbeite diese Community-Überlieferung",
+ 	 	 	 	 	"trans": "Bearbeite diese Community-Geschichte",
  	 	 	 	 	"eng": "Edit this community lore"
  	 	 	 	}
  	 	 	}
@@ -6388,7 +6388,7 @@
  	 	 	 	}
  	 	 	},
  	 	 	"kick": {
- 	 	 	 	"trans": "Trete",
+ 	 	 	 	"trans": "Treten",
  	 	 	 	"eng": "Kick",
  	 	 	 	"description": {
  	 	 	 	 	"trans": "Wirf andere Spieler aus deiner Bande.",
@@ -6417,7 +6417,7 @@
  	},
  	"donationPage": {
  	 	"benefits": {
- 	 	 	"trans": "Leistungen",
+ 	 	 	"trans": "Vorteile",
  	 	 	"eng": "benefits"
  	 	},
  	 	"message": {
